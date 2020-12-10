@@ -1,0 +1,28 @@
+---
+title: "Noticia"
+author: "Javier Ribal"
+date: "10/12/2020"
+output: 
+  html_document:
+    ccs: estilos.css
+    toc: true
+    toc_float: true
+    toc_deepth: 4
+    number_sections: true
+    fig_width: 5
+    fig_height: 4
+    fig_caption: false
+    theme: united
+    
+  
+---
+<!--Necesario-->
+```{r setup, include=FALSE} 
+knitr::opts_chunk$set(echo = TRUE)
+```
+<!--Linkear un md al proyecto-->
+```{r child = 'introduccion.rmd'}
+
+```
+
+

@@ -1,0 +1,70 @@
+body {
+    font-family: Helvetica;
+    font-size: 12pt;
+}
+
+
+
+.azul{
+	font-size: 12pt;
+	color: blue;
+}  
+
+
+/* etiqueta*/
+
+h1 {
+    font-size: 24pt;
+    color: firebrick;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 20pt;
+    color: firebrick;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-size: 18pt;
+    color: firebrick;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+h4 {
+    font-size: 16pt;
+    color: firebrick;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+
+/* id */
+
+#TOC {
+    font-size: 10pt;
+}
+
+
+/* clase */
+
+.peque {
+    font-size: 10pt;
+    color: blue;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.ejemplo {
+    color: firebrick;
+    font-size: 20pt;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
