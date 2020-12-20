@@ -1,26 +1,3 @@
----
-title: "Notícia"
-author: "Matteo Bozzo Solar"
-date: "2020-21"
-output:
-  html_document:
-    css: estilos.css
-    toc: yes
-    toc_float: yes
-    toc_depth: 4
-    number_sections: yes
-    fig_width: 5
-    fig_height: 4
-    fig_caption: yes
-    theme: united
-  pdf_document:
-    toc: yes
-    toc_depth: '4'
----
-<!--Necesario-->
-```{r setup, include=FALSE} 
-knitr::opts_chunk$set(echo = TRUE)
-```
 # Definició
 Composició literaria escrita en vers.
 
@@ -42,19 +19,13 @@ Línies del poema.Tenen mètrica (el nombre de síl·labes).
 ### Mètrica
  Es conta de la primera a l’última síl·laba.
 
-### Fenómens
+### Fenómens:
 
-#### Sinalefa 
-
-Última síl·laba d’una paraula acabada en vocal i la següent comença per vocal, s'uneixen en una sola síl·laba.
+1.  Sinalefa: última síl·laba d’una paraula acabada en vocal i la següent comença per vocal, s'uneixen en una sola síl·laba.
     
-#### Elisió 
-
-Dos paraules pronunciades quasi iguals formen una sola síl·laba.
+2.  Elisió: dos paraules pronunciades quasi iguals formen una sola síl·laba.
     
-#### Hiat
-
-Pronunciació en síl·labes diferents de dues vocals en contacte.
+3.  Hiat: pronunciació en síl·labes diferents de dues vocals en contacte.
     
 
   
@@ -121,12 +92,3 @@ Llenguatge especial (recursos expressius i figures retòriques) empleades per l�
 	 - Antítesi, oposició de dos conceptes que són o semblen contradictoris.
 	 - Personificació, atribuació de qualitats humanes a éssers no humans.
 
-
-<div class="Tablon_Botones">
-<a href="index.html"><button class="boton">Retornar a la Pàgina Principal</button></a>
-
-<br>
-
-<a href="ejemploPoesia.html"><button class="boton">Exemple Poesia</button></a>
-
-</div>
