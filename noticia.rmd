@@ -96,7 +96,7 @@ Les circumstàncies
 La causa
 
 <br>
-<hr>
+<hr color="firebrick">
 <br>
 
 ## Sis W
@@ -125,11 +125,11 @@ Es diu que la estructura de la notícia te forma de piràmide invertida ja que p
 
 <br>
 
-<hr>
+<color="firebrick">
 
 <br>
 <div class="Tablon_Botones">
-<a href="/index.html"><button class="boton">Volver a la Página Principal</button></a>
+<a href="index.html"><button class="boton">Volver a la Página Principal</button></a>
 
 </div>
 
