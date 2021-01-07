@@ -24,13 +24,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Definició
-La notícia es un text **periodistic** és un text de tipus narratius que té com objectiu informar de fets o accions d'interés generals ocorreguts recientment.
+La notícia es un text **periodístic** és un text de tipus narratiu que té com objectiu informar de fets o accions d'interés general ocorreguts recientment.
 
 # Característiques
-- Objetiva
-- Senzilla
-- Clara
-- Concisa
+- Objetivitat
+- Sencillesa
+- Claritat
+- Concistencia
 - Llenguatge estàndar
 - Fonts fiables<br>
 Per a transmetre credibilitat
@@ -43,22 +43,22 @@ Per a transmetre credibilitat
   
 ## Autoria o redacció
 
-Nom del periosdista o agència que a elaborat la notícia. Lloc de la redacció.
+Nom del periosdísta o agència que elabora la notícia. Lloc de la redacció.
 
 ## Titular o títol
 
-Enunciat breu, situat a l'encapçalament de manera molt destacada, designa el contingut essencial d'una notícia.
+**Enunciat breu**, situat a l'encapçalament de manera molt destacada, designa el contingut essencial d'una notícia.
 
 ## Entradeta o *lead*
-És el primer paràgraf, escrit amb una tipografia diferent, que conté les dades essencials del fet o acció. Sereveix per a que el lector es puga fer-se'n una idea completa sense llegir la resta del text.
+És el primer paràgraf, escrit amb una tipografia diferent, que conté les dades essencials del fet o acció. Serveix per a que el lector es puga fer-se'n una idea completa sense llegir la resta del text.
 
 ## Peu de foto
 
-Comentari breu sobre la fotografia. Autoria de la foto
+Comentari breu sobre la fotografia. Autoria de la fotografia
 
 ## Cos
 
-Part més ampla la cual presenta l' informació del fet o acció o situació. Sol estar divit en paràgrafs, distribuïts en diferents columnes
+Part més ampla la qual presenta l'informació del fet o acció o situació. Sol estar divit en paràgrafs, distribuïts en diferents columnes
 
 ### Informacio del cos
 
@@ -77,7 +77,7 @@ Protasgonista de la acció
 
 ## Què?
 
-El fet?
+El fet
 
 ## On?
 
@@ -101,7 +101,7 @@ La causa
 
 ## Sis W
 
-Aquest es el nom que rebrem el conjunt d'aquestes preguntes, en l'argot del periodisme. 
+Aquest es el nom que rebren el conjunt d'aquestes preguntes, en l'argot del periodisme. 
 
 - Who?
 - What?
@@ -115,11 +115,11 @@ Això ve perquè totes les preguntes contenen la lletra "w" en angles.</div>
 
 
 
-La resposta a les quatre primeres preguntes("Qui?", "Qué?", "On?" i "Quan?") ha d'aparéixer en el titutlar o entradeta. Per contrapart les dos ultimes ("Com?" i "Per què?") poden aparéixer en el cos.
+La resposta a les quatre primeres preguntes("Qui?", "Qué?", "On?" i "Quan?") han d'aparéixer en el titular o entradeta. Per contrapart les dos ultimes ("Com?" i "Per què?") poden aparéixer en el cos.
 
 # Estructura
 
-Es diu que la estructura de la notícia te forma de piràmide invertida ja que presenta m´es informació al principi de la notícia que cap al final Això es fa per a **Dosificar la Informació**.
+Es diu que l'estructura de la notícia te forma de piràmide invertida ja que presenta més informació al principi de la notícia que cap al final. Això es fa per a **Dosificar la Informació**.
 
 <br>
 
@@ -128,7 +128,7 @@ Es diu que la estructura de la notícia te forma de piràmide invertida ja que p
 
 <br>
 <div class="Tablon_Botones">
-<a href="index.html"><button class="boton">Volver a la Página Principal</button></a>
+<a href="index.html"><button class="boton">Retornar a la Página Principal</button></a>
 
 </div>
 
