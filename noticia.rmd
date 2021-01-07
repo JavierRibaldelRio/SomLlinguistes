@@ -125,7 +125,6 @@ Es diu que la estructura de la notícia te forma de piràmide invertida ja que p
 
 <br>
 
-<color="firebrick">
 
 <br>
 <div class="Tablon_Botones">
